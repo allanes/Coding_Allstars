@@ -1,0 +1,7 @@
+requests
+selenium
+beautifulsoup4
+translate
+google-cloud-translate==2.0.1
+uvicorn[standard]
+fastapi
